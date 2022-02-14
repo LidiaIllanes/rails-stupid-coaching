@@ -1,3 +1,27 @@
 // Place all the styles related to the questions controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: https://sass-lang.com/
+.button{
+    border-radius: 30%;
+    background-color: rgb(179, 6, 35);
+    padding: 30px;
+}
+form{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+.title{
+    display: flex;
+    justify-content: center;
+    margin: 80px auto;
+}
+.box{
+    padding: 30px;
+    border-radius: 10%;
+}
+div{
+    background-image: url(https://media.istockphoto.com/photos/football-coach-and-players-picture-id187536192?s=612x612);
+    background-image: ;
+    height: 400px;
+}
